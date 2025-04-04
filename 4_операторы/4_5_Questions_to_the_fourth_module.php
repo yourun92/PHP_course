@@ -8,4 +8,5 @@
     $res %= 10;
     $res /= 5;
     echo $res;
+    echo $a;
 ?>
